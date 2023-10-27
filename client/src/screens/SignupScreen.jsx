@@ -42,7 +42,7 @@ const SignupScreen = () => {
     <div className="w-full flex-1 bg-white dark:bg-dark-grey flex items-center justify-center px-4 sm:px-10 py-4 sm:py-6">
       <div className="flex flex-col gap-2 w-full sm:w-3/5 sm:max-w-[30rem] text-center">
         <p className="text-3xl font-semibold text-black dark:text-white mb-4">
-          Login
+          Sign up
         </p>
         <input
           type="text"
